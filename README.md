@@ -11,7 +11,8 @@ Populating table and add a layer of security fpr PII.
 
 Architecrure:
 
-![image](https://github.com/Amse23/azure-infra-assignment-zlatan/assets/128851103/075afea5-7323-45e5-a56e-b537b10acf58)
+![image](https://github.com/Amse23/zlatan/assets/128851103/258d0aed-9058-452c-809e-6fe09a5e1776)
+
 
 The following steps best describe the progression:
 1. Azure Infrastructure with Terraform

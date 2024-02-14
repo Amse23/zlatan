@@ -1,0 +1,9 @@
+{
+	"name": "amseadfassignment",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8ce25d1c-ba75-4040-a0e5-5aa940b130b3",
+		"tenantId": "05365e85-2c01-4293-86ce-f14c98413f32"
+	}
+}

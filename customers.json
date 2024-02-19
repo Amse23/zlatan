@@ -1,0 +1,197 @@
+[
+    {
+        "customerId": "1",
+        "firstName": "John",
+        "lastName": "Doe",
+        "email": "john.doe@example.com",
+        "phone": "+1-555-123-4567",
+        "address": {
+            "street": "123 Main St",
+            "city": "Anytown",
+            "state": "CA",
+            "zipCode": "12345"
+        },
+        "dob": "1980-01-15",
+        "ssn": "123-45-6789"
+    },
+    {
+        "customerId": "2",
+        "firstName": "Jane",
+        "lastName": "Smith",
+        "email": "jane.smith@example.com",
+        "phone": "+1-555-987-6543",
+        "address": {
+            "street": "456 Oak St",
+            "city": "Othercity",
+            "state": "NY",
+            "zipCode": "67890"
+        },
+        "dob": "1995-05-20",
+        "ssn": "987-65-4321"
+    },
+    {
+        "customerId": "3",
+        "firstName": "Bob",
+        "lastName": "Johnson",
+        "email": "bob.johnson@example.com",
+        "phone": "+1-555-234-5678",
+        "address": {
+            "street": "789 Pine St",
+            "city": "Sometown",
+            "state": "TX",
+            "zipCode": "56789"
+        },
+        "dob": "1988-11-02",
+        "ssn": "456-78-9012"
+    },
+    {
+        "customerId": "4",
+        "firstName": "Alice",
+        "lastName": "Williams",
+        "email": "alice.williams@example.com",
+        "phone": "+1-555-345-6789",
+        "address": {
+            "street": "101 Maple St",
+            "city": "Anothercity",
+            "state": "FL",
+            "zipCode": "34567"
+        },
+        "dob": "1975-08-12",
+        "ssn": "789-01-2345"
+    },
+    {
+        "customerId": "5",
+        "firstName": "Charlie",
+        "lastName": "Brown",
+        "email": "charlie.brown@example.com",
+        "phone": "+1-555-456-7890",
+        "address": {
+            "street": "222 Birch St",
+            "city": "Yetanothercity",
+            "state": "AZ",
+            "zipCode": "45678"
+        },
+        "dob": "1992-03-25",
+        "ssn": "234-56-7890"
+    },
+    {
+        "customerId": "6",
+        "firstName": "Eva",
+        "lastName": "Martinez",
+        "email": "eva.martinez@example.com",
+        "phone": "+1-555-567-8901",
+        "address": {
+            "street": "333 Cedar St",
+            "city": "Somewhereville",
+            "state": "IL",
+            "zipCode": "56789"
+        },
+        "dob": "1983-09-08",
+        "ssn": "567-89-0123"
+    },
+    {
+        "customerId": "7",
+        "firstName": "David",
+        "lastName": "Chen",
+        "email": "david.chen@example.com",
+        "phone": "+1-555-678-9012",
+        "address": {
+            "street": "444 Oak St",
+            "city": "Metropolis",
+            "state": "WA",
+            "zipCode": "67890"
+        },
+        "dob": "1970-12-31",
+        "ssn": "890-12-3456"
+    },
+    {
+        "customerId": "8",
+        "firstName": "Grace",
+        "lastName": "Taylor",
+        "email": "grace.taylor@example.com",
+        "phone": "+1-555-789-0123",
+        "address": {
+            "street": "555 Pine St",
+            "city": "Cityville",
+            "state": "GA",
+            "zipCode": "78901"
+        },
+        "dob": "1987-06-17",
+        "ssn": "012-34-5678"
+    },
+    {
+        "customerId": "9",
+        "firstName": "Frank",
+        "lastName": "Wong",
+        "email": "frank.wong@example.com",
+        "phone": "+1-555-890-1234",
+        "address": {
+            "street": "666 Elm St",
+            "city": "Nowhere",
+            "state": "CO",
+            "zipCode": "89012"
+        },
+        "dob": "1998-02-09",
+        "ssn": "345-67-8901"
+    },
+    {
+        "customerId": "10",
+        "firstName": "Helen",
+        "lastName": "Kim",
+        "email": "helen.kim@example.com",
+        "phone": "+1-555-901-2345",
+        "address": {
+            "street": "777 Maple St",
+            "city": "Everywhere",
+            "state": "NC",
+            "zipCode": "90123"
+        },
+        "dob": "1982-04-03",
+        "ssn": "678-90-1234"
+    },
+    {
+        "customerId": "11",
+        "firstName": "Ivan",
+        "lastName": "Lopez",
+        "email": "ivan.lopez@example.com",
+        "phone": "+1-555-012-3456",
+        "address": {
+            "street": "888 Birch St",
+            "city": "Nowheresville",
+            "state": "MI",
+            "zipCode": "01234"
+        },
+        "dob": "1993-07-26",
+        "ssn": "901-23-4567"
+    },
+    {
+        "customerId": "12",
+        "firstName": "Jessica",
+        "lastName": "Nguyen",
+        "email": "jessica.nguyen@example.com",
+        "phone": "+1-555-123-4567",
+        "address": {
+            "street": "999 Cedar St",
+            "city": "Anywhere",
+            "state": "OR",
+            "zipCode": "12345"
+        },
+        "dob": "1978-10-11",
+        "ssn": "234-56-7890"
+    },
+    {
+        "customerId": "13",
+        "firstName": "Kevin",
+        "lastName": "Davis",
+        "email": "kevin.davis@example.com",
+        "phone": "+1-555-234-5678",
+        "address": {
+            "street": "111 Pine St",
+            "city": "Elsewhere",
+            "state": "UT",
+            "zipCode": "23456"
+        },
+        "dob": "1986-05-14",
+        "ssn": "828-56-7890"
+    }
+]
